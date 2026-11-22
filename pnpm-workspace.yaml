@@ -1,0 +1,20 @@
+---
+blockExoticSubdeps: true
+minimumReleaseAge: 0 # acceptable for my own packages
+trustPolicy: no-downgrade
+
+pmOnFail: ignore
+
+provenance: true
+
+permissions:
+  "@afcms/shell-config":
+    skills: true
+  esbuild:
+    build: true
+
+skills:
+  dirs:
+    - .agents/skills
+
+trustPolicyExcludePrune: true
