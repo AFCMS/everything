@@ -30,6 +30,7 @@
     "provenance": true
   },
   "scripts": {
+    "build": "node-modules-inspector build",
     "format": "oxfmt .",
     "prepare": "husky"
   },
@@ -42,6 +43,7 @@
   },
   "devDependencies": {
     "husky": "^9.1.7",
+    "node-modules-inspector": "^2.7.0",
     "oxfmt": "^0.79.0"
   },
   "devEngines": {

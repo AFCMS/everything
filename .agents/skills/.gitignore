@@ -1,3 +1,4 @@
 # pnpm
+/node-modules-inspector
 /shell-config
 # pnpm end
