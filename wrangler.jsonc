@@ -1,0 +1,11 @@
+{
+  "name": "everything",
+  "compatibility_date": "2026-11-22",
+  "build": {
+    "command": "pnpx node-modules-inspector@latest build",
+  },
+  "assets": {
+    "directory": "./dist/__node-modules-inspector",
+    "not_found_handling": "single-page-application",
+  },
+}
