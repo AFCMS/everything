@@ -1,4 +1,6 @@
 # pnpm
+/maintain-ts
+/modern-ts
 /node-modules-inspector
 /shell-config
 # pnpm end

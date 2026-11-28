@@ -37,7 +37,8 @@
   "dependencies": {
     "@afcms/avro-zod": "^2.1.0",
     "@afcms/cowsay-ng": "^0.1.3",
-    "@afcms/shell-config": "^0.0.5",
+    "@afcms/shell-config": "^0.0.6",
+    "@afcms/skills": "^0.0.4",
     "@afcms/vite-plugin-opensearch": "^0.2.4",
     "esbuild-plugin-json-cleaner": "^0.2.3"
   },

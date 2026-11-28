@@ -10,6 +10,8 @@ provenance: true
 permissions:
   "@afcms/shell-config":
     skills: true
+  "@afcms/skills":
+    skills: true
   node-modules-inspector:
     skills: true
   esbuild:
